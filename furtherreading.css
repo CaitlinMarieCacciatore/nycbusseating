@@ -1,0 +1,50 @@
+
+div {
+    font-size:large;
+}
+
+body {
+    background-color: #E8DED1;
+  }
+
+
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+
+
+
+img {
+    display: block;
+    border: 10px solid #000000;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 3px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: xx-large
+}
+
+h4 {
+    text-align: center;
+    font-size: large
+}
+
+p {
+    font-size: large;
+}
